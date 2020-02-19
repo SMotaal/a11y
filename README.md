@@ -1,6 +1,16 @@
-﻿# Accessibility
+﻿<div align=center>
+
+<hgroup>
+
+# <img alt="consequential inaccessibility ≠ incidental feature request" src="./assets/Accessibility.svg" height=72 />
+
+## Accessibility
+
+</hgroup>
 
 This repository is used to track accessibility-related issues.
+
+</div>
 
 ## Why
 
