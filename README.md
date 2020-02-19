@@ -20,7 +20,7 @@ I personally do a few things:
 
 - Work with [CHAOSS](https://chaoss.community/) trying to devise metrics that can help addressing accessibility matters within the open source community, projects, contributors and users.
 
-- Help coordinate initiatives and efforts within the [Node.js Community Committee](https://github.com/nodejs/community-committee) and the [OpenJS Foundation](https://openjsf.org/)
+- Help coordinate initiatives and efforts within the [Node.js Community Committee](https://github.com/nodejs/community-committee) and the [OpenJS Foundation](https://openjsf.org/).
 
 - Use my knowledge and expertise to try to understand the design considerations that help reduce "friction", ie what it takes to offer a "frictionless" mainstream-oriented experience, a more inclusive user experience, [looking for the CX](https://medium.com/@smotaal/looking-for-the-cx-342e8ccbbb24).
 
